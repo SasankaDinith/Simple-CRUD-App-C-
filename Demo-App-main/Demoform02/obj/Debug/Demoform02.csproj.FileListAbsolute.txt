@@ -1,0 +1,10 @@
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\bin\Debug\Demoform02.exe.config
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\bin\Debug\Demoform02.exe
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\bin\Debug\Demoform02.pdb
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.csproj.AssemblyReference.cache
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.Form1.resources
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.Properties.Resources.resources
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.csproj.GenerateResource.cache
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.csproj.CoreCompileInputs.cache
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.exe
+C:\Users\SASANKA\Documents\C# projects\Demoform02\Demoform02\obj\Debug\Demoform02.pdb
